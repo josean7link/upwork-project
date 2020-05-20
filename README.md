@@ -1,2 +1,2 @@
 # upwork-project
-project of python and pandas with matplotlib for data analysis
+Project of python and pandas with matplotlib for data analysis
